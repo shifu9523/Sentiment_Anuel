@@ -1,4 +1,4 @@
-```python
+
 from textblob import TextBlob
 import streamlit as st
 from PIL import Image
